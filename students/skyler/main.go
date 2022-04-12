@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/SkylerBair/urlshort/urlshort"
+	"github.com/SkylerBair/urlshort/students/skyler/urlshort"
 )
 
 func main() {
